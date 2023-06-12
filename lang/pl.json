@@ -1,0 +1,12 @@
+{
+  "rocket_details": "Szczegóły rakiety",
+  "stages": "Stages",
+  "height": "Wysokość",
+  "diameter": "Średnica",
+  "mass": "Masa",
+  "read_more": "Więcej",
+  "cost_per_launch": "Koszt startu",
+  "type": "Typ",
+  "first_flight": "Pierwszy lot",
+  "select_rocket": "Wybierz rakietę"
+}

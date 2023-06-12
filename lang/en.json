@@ -1,0 +1,12 @@
+{
+  "rocket_details": "Rocket details",
+  "stages": "Stages",
+  "height": "Height",
+  "diameter": "Diameter",
+  "mass": "Mass",
+  "read_more": "Read more",
+  "cost_per_launch": "Cost per launch",
+  "type": "Type",
+  "first_flight": "First flight",
+  "select_rocket": "Select rocket"
+}
