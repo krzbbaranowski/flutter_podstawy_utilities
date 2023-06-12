@@ -1,5 +1,6 @@
-## "Flutter. Podstawy" – Krzysztof Baranowski – biblioteka pomocnicza
+[![pub package](https://img.shields.io/pub/v/flutter_podstawy_utilities.svg)](https://pub.dev/packages/flutter_podstawy_utilities)
 
+## "Flutter. Podstawy" – Krzysztof Baranowski – biblioteka pomocnicza
 Biblioteka pomocnicza dla projektów realizowanych w książce Flutter. Podstawy.
 
 
