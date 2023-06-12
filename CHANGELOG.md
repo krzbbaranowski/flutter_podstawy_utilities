@@ -1,8 +1,8 @@
 # 1.0.2
-- Small changes
+- Minor changes
 - 
 # 1.0.1
-- Small changes 
+- Minor changes 
 
 # 1.0.0
 - Init commit
