@@ -2,10 +2,11 @@ name: flutter_podstawy_utilities
 description: Biblioteka pomocnicza dla projektów realizowanych w książce Flutter. Podstawy.
 version: 1.0.1
 homepage: https://programistabyc.pl
+repository: https://github.com/krzbbaranowski/flutter_podstawy_utilities
 
 environment:
   sdk: '>=2.18.2 <4.0.0'
-  flutter: ">=1.17.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
