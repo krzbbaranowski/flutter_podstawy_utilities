@@ -1,6 +1,6 @@
-## "Flutter. Podstawy" – biblioteka pomocnicza
+## "Flutter. Podstawy" – Krzysztof Baranowski – biblioteka pomocnicza
 
-Biblioteka pomocnicza dla projektów realizowanych w książe Flutter. Podstawy.
+Biblioteka pomocnicza dla projektów realizowanych w książce Flutter. Podstawy.
 
 
 ## Ważne linki
