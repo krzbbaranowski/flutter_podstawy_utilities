@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-import '../colors/dimens.dart';
+import '../constants/dimens.dart';
 
 class VerticalSmallMargin extends StatelessWidget {
   const VerticalSmallMargin({super.key});
