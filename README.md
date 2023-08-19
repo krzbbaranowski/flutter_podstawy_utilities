@@ -3,6 +3,8 @@
 ## "Flutter. Podstawy" – Krzysztof Baranowski – biblioteka pomocnicza
 Biblioteka pomocnicza dla projektów realizowanych w książce Flutter. Podstawy.
 
+![Okladka](https://static01.helion.com.pl/global/okladki/vbig/flupod.jpg)
+![Okladka](https://static01.helion.com.pl/global/okladki-tyl/vbig/flupod.jpg)
 
 ## Ważne linki
 
